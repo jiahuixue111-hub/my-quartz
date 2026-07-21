@@ -18,3 +18,16 @@ width="100%"
 height="600"
 frameborder="0">
 </iframe>
+
+---
+
+## 📊 Desmos 图形计算器
+
+在线函数绘图：
+
+<iframe 
+src="https://www.desmos.com/calculator"
+width="100%"
+height="600"
+frameborder="0">
+</iframe>
