@@ -4,8 +4,8 @@
   "cleanUrls": false,
   "rewrites": [
     {
-      "source": "/生物/:page",
-      "destination": "/生物/:page.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
