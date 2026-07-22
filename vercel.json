@@ -1,12 +1,5 @@
 {
-  "rewrites": [
-    {
-      "source": "/:path/",
-      "destination": "/:path/index.html"
-    },
-    {
-      "source": "/:path/:page/",
-      "destination": "/:path/:page.html"
-    }
-  ]
+  "cleanUrls": false,
+  "trailingSlash": false
 }
+
