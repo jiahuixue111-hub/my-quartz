@@ -2,7 +2,7 @@
 configuration:
   pageTitle: 我的知识网
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
